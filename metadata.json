@@ -1,0 +1,5 @@
+{
+  "name": "Text Cleaner for TTS",
+  "description": "An AI-powered tool to clean and structure text from various document formats (PDF, DOCX, TXT) to prepare it for Text-to-Speech (TTS) applications.",
+  "requestFramePermissions": []
+}
